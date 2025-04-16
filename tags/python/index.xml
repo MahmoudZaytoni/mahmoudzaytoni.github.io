@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Mahmoud Ahmad</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://mahmoudzaytoni.github.io/tags/python/</link>
     <description>Recent content in Python on Mahmoud Ahmad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Apr 2025 10:02:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mahmoudzaytoni.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Control Aircondition</title>
-      <link>http://localhost:1313/projects/remote-control-aircondition/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/remote-control-aircondition/</link>
       <pubDate>Tue, 15 Apr 2025 10:02:46 +0200</pubDate>
-      <guid>http://localhost:1313/projects/remote-control-aircondition/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/remote-control-aircondition/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Remote Control AirCondition&lt;/strong&gt;&#xA;A smart IoT-based system designed to remotely monitor and control two air conditioning units using an ESP32 microcontroller and Python backend. The system hosts a lightweight web interface directly on the ESP32 for local control and offers two operational modes: Manual and Automatic.&#xA;In Manual mode, users can control the air conditioners directly through the web interface. In Automatic mode, the system adjusts based on predefined rules using real-time environmental data.&#xA;The system logs temperature and humidity every minute, sends instant Telegram notifications if temperature exceeds a threshold, and generates daily temperature reports for performance monitoring and energy optimization.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Delivery Orders</title>
-      <link>http://localhost:1313/projects/delivery-orders/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/delivery-orders/</link>
       <pubDate>Tue, 15 Apr 2025 09:32:25 +0200</pubDate>
-      <guid>http://localhost:1313/projects/delivery-orders/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/delivery-orders/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A web-based application designed to manage delivery orders within an organization. The system enables users to create and manage delivery orders efficiently. It integrates with a thermal printer to print physical delivery slips, which are used to authorize employees to load products onto designated vehicles. The application supports multiple user roles, allowing different levels of access and permissions based on responsibilities. Some users can create and manage delivery orders, while others have permissions to export them — ensuring a smooth and secure workflow from order creation to dispatch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purchase System</title>
-      <link>http://localhost:1313/projects/purchase-system/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/purchase-system/</link>
       <pubDate>Sun, 13 Apr 2025 10:53:34 +0200</pubDate>
-      <guid>http://localhost:1313/projects/purchase-system/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/purchase-system/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A multi-user web application designed to manage company purchases efficiently. The system supports role-based access control based on user groups. Purchase orders follow a defined workflow and approval cycle. The application also includes reporting features, graphical data visualization, and email notifications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-user access with role-based permissions&lt;/li&gt;&#xA;&lt;li&gt;Purchase order approval cycle&lt;/li&gt;&#xA;&lt;li&gt;Integrated reports and visual graphs&lt;/li&gt;&#xA;&lt;li&gt;Automated email notifications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Monitor &amp; Notifier</title>
-      <link>http://localhost:1313/projects/network-monitor/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/network-monitor/</link>
       <pubDate>Sat, 12 Apr 2025 14:25:26 +0200</pubDate>
-      <guid>http://localhost:1313/projects/network-monitor/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/network-monitor/</guid>
       <description>&lt;p&gt;A Python-based monitoring system designed to track the availability and status of critical network devices. The system continuously checks connectivity, logs performance data, and sends real-time alerts and periodic reports via Telegram. It helps IT teams respond quickly to network issues and maintain system uptime.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time monitoring of network devices (ping/availability checks)&lt;/li&gt;&#xA;&lt;li&gt;Telegram integration for instant alerts and notifications&lt;/li&gt;&#xA;&lt;li&gt;Periodic summary reports sent via Telegram&lt;/li&gt;&#xA;&lt;li&gt;Configurable list of target devices and monitoring intervals&lt;/li&gt;&#xA;&lt;li&gt;Lightweight, script-based implementation with easy deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript on Mahmoud Ahmad</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>https://mahmoudzaytoni.github.io/tags/javascript/</link>
     <description>Recent content in JavaScript on Mahmoud Ahmad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Apr 2025 09:32:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mahmoudzaytoni.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Delivery Orders</title>
-      <link>http://localhost:1313/projects/delivery-orders/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/delivery-orders/</link>
       <pubDate>Tue, 15 Apr 2025 09:32:25 +0200</pubDate>
-      <guid>http://localhost:1313/projects/delivery-orders/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/delivery-orders/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A web-based application designed to manage delivery orders within an organization. The system enables users to create and manage delivery orders efficiently. It integrates with a thermal printer to print physical delivery slips, which are used to authorize employees to load products onto designated vehicles. The application supports multiple user roles, allowing different levels of access and permissions based on responsibilities. Some users can create and manage delivery orders, while others have permissions to export them — ensuring a smooth and secure workflow from order creation to dispatch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purchase System</title>
-      <link>http://localhost:1313/projects/purchase-system/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/purchase-system/</link>
       <pubDate>Sun, 13 Apr 2025 10:53:34 +0200</pubDate>
-      <guid>http://localhost:1313/projects/purchase-system/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/purchase-system/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A multi-user web application designed to manage company purchases efficiently. The system supports role-based access control based on user groups. Purchase orders follow a defined workflow and approval cycle. The application also includes reporting features, graphical data visualization, and email notifications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-user access with role-based permissions&lt;/li&gt;&#xA;&lt;li&gt;Purchase order approval cycle&lt;/li&gt;&#xA;&lt;li&gt;Integrated reports and visual graphs&lt;/li&gt;&#xA;&lt;li&gt;Automated email notifications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

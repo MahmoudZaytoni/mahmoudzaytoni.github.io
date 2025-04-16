@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT on Mahmoud Ahmad</title>
-    <link>http://localhost:1313/tags/iot/</link>
+    <link>https://mahmoudzaytoni.github.io/tags/iot/</link>
     <description>Recent content in IoT on Mahmoud Ahmad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Apr 2025 10:02:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mahmoudzaytoni.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Control Aircondition</title>
-      <link>http://localhost:1313/projects/remote-control-aircondition/</link>
+      <link>https://mahmoudzaytoni.github.io/projects/remote-control-aircondition/</link>
       <pubDate>Tue, 15 Apr 2025 10:02:46 +0200</pubDate>
-      <guid>http://localhost:1313/projects/remote-control-aircondition/</guid>
+      <guid>https://mahmoudzaytoni.github.io/projects/remote-control-aircondition/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project: Remote Control AirCondition&lt;/strong&gt;&#xA;A smart IoT-based system designed to remotely monitor and control two air conditioning units using an ESP32 microcontroller and Python backend. The system hosts a lightweight web interface directly on the ESP32 for local control and offers two operational modes: Manual and Automatic.&#xA;In Manual mode, users can control the air conditioners directly through the web interface. In Automatic mode, the system adjusts based on predefined rules using real-time environmental data.&#xA;The system logs temperature and humidity every minute, sends instant Telegram notifications if temperature exceeds a threshold, and generates daily temperature reports for performance monitoring and energy optimization.&lt;/p&gt;</description>
     </item>
   </channel>
