@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hi 👋, I&#39;m Mahmoud</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Hi 👋, I&#39;m Mahmoud</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Apr 2025 10:53:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purchase System</title>
+      <link>http://localhost:1313/projects/purchase-system/</link>
+      <pubDate>Sun, 13 Apr 2025 10:53:34 +0200</pubDate>
+      <guid>http://localhost:1313/projects/purchase-system/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A multi-user web application designed to manage company purchases efficiently. The system supports role-based access control based on user groups. Purchase orders follow a defined workflow and approval cycle. The application also includes reporting features, graphical data visualization, and email notifications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-user access with role-based permissions&lt;/li&gt;&#xA;&lt;li&gt;Purchase order approval cycle&lt;/li&gt;&#xA;&lt;li&gt;Integrated reports and visual graphs&lt;/li&gt;&#xA;&lt;li&gt;Automated email notifications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network Monitor &amp; Notifier</title>
+      <link>http://localhost:1313/projects/network-monitor/</link>
+      <pubDate>Sat, 12 Apr 2025 14:25:26 +0200</pubDate>
+      <guid>http://localhost:1313/projects/network-monitor/</guid>
+      <description>&lt;p&gt;A Python-based monitoring system designed to track the availability and status of critical network devices. The system continuously checks connectivity, logs performance data, and sends real-time alerts and periodic reports via Telegram. It helps IT teams respond quickly to network issues and maintain system uptime.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time monitoring of network devices (ping/availability checks)&lt;/li&gt;&#xA;&lt;li&gt;Telegram integration for instant alerts and notifications&lt;/li&gt;&#xA;&lt;li&gt;Periodic summary reports sent via Telegram&lt;/li&gt;&#xA;&lt;li&gt;Configurable list of target devices and monitoring intervals&lt;/li&gt;&#xA;&lt;li&gt;Lightweight, script-based implementation with easy deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

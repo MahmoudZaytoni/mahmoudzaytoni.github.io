@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahmoud Ahmad</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mahmoud Ahmad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Apr 2025 10:02:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remote Control Aircondition</title>
+      <link>http://localhost:1313/projects/remote-control-aircondition/</link>
+      <pubDate>Tue, 15 Apr 2025 10:02:46 +0200</pubDate>
+      <guid>http://localhost:1313/projects/remote-control-aircondition/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project: Remote Control AirCondition&lt;/strong&gt;&#xA;A smart IoT-based system designed to remotely monitor and control two air conditioning units using an ESP32 microcontroller and Python backend. The system hosts a lightweight web interface directly on the ESP32 for local control and offers two operational modes: Manual and Automatic.&#xA;In Manual mode, users can control the air conditioners directly through the web interface. In Automatic mode, the system adjusts based on predefined rules using real-time environmental data.&#xA;The system logs temperature and humidity every minute, sends instant Telegram notifications if temperature exceeds a threshold, and generates daily temperature reports for performance monitoring and energy optimization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Delivery Orders</title>
+      <link>http://localhost:1313/projects/delivery-orders/</link>
+      <pubDate>Tue, 15 Apr 2025 09:32:25 +0200</pubDate>
+      <guid>http://localhost:1313/projects/delivery-orders/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A web-based application designed to manage delivery orders within an organization. The system enables users to create and manage delivery orders efficiently. It integrates with a thermal printer to print physical delivery slips, which are used to authorize employees to load products onto designated vehicles. The application supports multiple user roles, allowing different levels of access and permissions based on responsibilities. Some users can create and manage delivery orders, while others have permissions to export them — ensuring a smooth and secure workflow from order creation to dispatch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purchase System</title>
+      <link>http://localhost:1313/projects/purchase-system/</link>
+      <pubDate>Sun, 13 Apr 2025 10:53:34 +0200</pubDate>
+      <guid>http://localhost:1313/projects/purchase-system/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project: Web Application for Managing Company Purchases&lt;/strong&gt;&lt;br&gt;&#xA;A multi-user web application designed to manage company purchases efficiently. The system supports role-based access control based on user groups. Purchase orders follow a defined workflow and approval cycle. The application also includes reporting features, graphical data visualization, and email notifications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-user access with role-based permissions&lt;/li&gt;&#xA;&lt;li&gt;Purchase order approval cycle&lt;/li&gt;&#xA;&lt;li&gt;Integrated reports and visual graphs&lt;/li&gt;&#xA;&lt;li&gt;Automated email notifications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network Monitor &amp; Notifier</title>
+      <link>http://localhost:1313/projects/network-monitor/</link>
+      <pubDate>Sat, 12 Apr 2025 14:25:26 +0200</pubDate>
+      <guid>http://localhost:1313/projects/network-monitor/</guid>
+      <description>&lt;p&gt;A Python-based monitoring system designed to track the availability and status of critical network devices. The system continuously checks connectivity, logs performance data, and sends real-time alerts and periodic reports via Telegram. It helps IT teams respond quickly to network issues and maintain system uptime.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time monitoring of network devices (ping/availability checks)&lt;/li&gt;&#xA;&lt;li&gt;Telegram integration for instant alerts and notifications&lt;/li&gt;&#xA;&lt;li&gt;Periodic summary reports sent via Telegram&lt;/li&gt;&#xA;&lt;li&gt;Configurable list of target devices and monitoring intervals&lt;/li&gt;&#xA;&lt;li&gt;Lightweight, script-based implementation with easy deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/2025/04/my-first-post/</link>
+      <pubDate>Wed, 09 Apr 2025 11:50:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2025/04/my-first-post/</guid>
+      <description>&lt;p&gt;My first post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>👋 About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Apr 2025 11:48:25 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello, I&amp;rsquo;m Mahmoud Ahmad — an IT System Admin &amp;amp; Software Engineer with a degree in Computer Science and a strong passion for technology, exploring various areas of technology,  including development, networking, and cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently work as a IT &amp;amp; Software Engineer with over a year of experience, and I&amp;rsquo;m excited about the opportunities and challenges this field presents. 💻&lt;/p&gt;&#xA;&lt;p&gt;Aside from working, I enjoy exploring new technologies and tools, reading technical blogs, and working on personal projects. I believe in continuous learning and improving my skills, both technical and interpersonal. 📚&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 09 Apr 2025 11:48:25 +0200</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;IT Sys Admin &amp;amp; Software Engineer @ Alahram for food industries&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project&lt;/th&gt;&#xA;          &lt;th&gt;Tools &amp;amp; Technologies&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/projects/purchase-system/&#34;&gt;&lt;strong&gt;Web Application System for Managing Company Purchases&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;- Python (Django Framework)  - PostgreSQL  - HTML - CSS - JavaScript - jQuery - Shell Scripting  - Git &amp;amp; GitHub  - Docker Compose&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/projects/network-monitor/&#34;&gt;&lt;strong&gt;Network Monitor &amp;amp; Notifier&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;- Python - Telegram Bot API - Linux - Shell Scripting - Git &amp;amp; GitHub&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/projects/delivery-orders/&#34;&gt;&lt;strong&gt;Web Application System for Managing Delivery orders&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;- Python (Django Framework)  - sqlite  - HTML - CSS - JavaScript - Shell Scripting  - Git &amp;amp; GitHub&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/projects/remote-control-aircondition/&#34;&gt;&lt;strong&gt;Remote Control AirCondition&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;- Arduino (C++) - Python -  HTML - CSS - JavaScript - Shell Scripting  - XML&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

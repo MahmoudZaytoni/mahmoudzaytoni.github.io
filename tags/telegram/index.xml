@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on Mahmoud Ahmad</title>
+    <link>http://localhost:1313/tags/telegram/</link>
+    <description>Recent content in Telegram on Mahmoud Ahmad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Apr 2025 14:25:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Monitor &amp; Notifier</title>
+      <link>http://localhost:1313/projects/network-monitor/</link>
+      <pubDate>Sat, 12 Apr 2025 14:25:26 +0200</pubDate>
+      <guid>http://localhost:1313/projects/network-monitor/</guid>
+      <description>&lt;p&gt;A Python-based monitoring system designed to track the availability and status of critical network devices. The system continuously checks connectivity, logs performance data, and sends real-time alerts and periodic reports via Telegram. It helps IT teams respond quickly to network issues and maintain system uptime.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time monitoring of network devices (ping/availability checks)&lt;/li&gt;&#xA;&lt;li&gt;Telegram integration for instant alerts and notifications&lt;/li&gt;&#xA;&lt;li&gt;Periodic summary reports sent via Telegram&lt;/li&gt;&#xA;&lt;li&gt;Configurable list of target devices and monitoring intervals&lt;/li&gt;&#xA;&lt;li&gt;Lightweight, script-based implementation with easy deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
